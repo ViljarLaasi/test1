@@ -3,7 +3,7 @@
 function welcom($name)
 {
 	echo'tere'.$name;
-	
+	//miskit uut ja huvitavat
 	
 	
 }
